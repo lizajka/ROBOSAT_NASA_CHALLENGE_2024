@@ -1,4 +1,4 @@
-Please to proceed open https://tuni-my.sharepoint.com/my?id=%2Fpersonal%2Fyelyzaveta%5Fpervysheva%5Ftuni%5Ffi%2FDocuments%2FROBOSAT%2Fqgis&ga=1
+Please to proceed open https://tuni-my.sharepoint.com/:f:/g/personal/yelyzaveta_pervysheva_tuni_fi/Ejm_L0nTnXBDmcoizmv5tmQBHtHS9ClVoS2rbZsz7zCbLg?e=UQ1JOl
 🛰️ RoboSat Project – QGIS Documentation
 📁 Project Overview
 
@@ -103,3 +103,4 @@ Step 3 – QGIS Visualization:
 This step focuses on terrain analysis, path validation, and obstacle overview using the processed DEM and point cloud data.
 
 The navigation paths (GeoJSONs) are carried over from Step 2 (Path Generation and Tracking).
+
