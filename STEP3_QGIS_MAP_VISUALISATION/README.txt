@@ -25,7 +25,7 @@ Go to File → Open Project…
 RoboSat – Step 3: QGIS Visualization (KFargen Forest)
 📖 Purpose
 
-This folder contains Step 3 of the RoboSat project — the QGIS visualization and terrain analysis stage for the KFargen Forest area.
+This folder contains Step 3 of the RoboSat project — the QGIS visualization and terrain analysis stage for the Käferberg Forest area.
 It is used to visually inspect surface data, verify navigation paths, and analyze terrain features relevant to autonomous navigation.
 
 📂 Contents
@@ -101,4 +101,5 @@ Point Cloud Viewer → to explore LAZ data in 3D for obstacle assessment.
 
 Step 3 – QGIS Visualization:
 This step focuses on terrain analysis, path validation, and obstacle overview using the processed DEM and point cloud data.
+
 The navigation paths (GeoJSONs) are carried over from Step 2 (Path Generation and Tracking).
